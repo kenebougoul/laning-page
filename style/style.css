@@ -1,0 +1,38 @@
+ 
+h1 {
+  text-align: center;
+  color: red;
+}
+p {
+  direction: rtl;
+  text-align: justify;  
+  border: 5px solid blue ;
+  background-color: white;
+  padding: 45px;
+  margin-top: 5px;
+  border-radius: 100px;
+  box-shadow: 20px 20px 25px red ;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+ 
+}
+body {
+  background-color: rgb(243, 243, 243);
+}
+nav {
+  border: 1px solid white;
+  background: white; 
+}
+b{
+  background-color: red;
+  border-radius: 100px;
+}
+strong {
+  display: block;
+}
+li {
+  text-align: justify;  
+}
+#col {
+  column-count: 2;
+}
